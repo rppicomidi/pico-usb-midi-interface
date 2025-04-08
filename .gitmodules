@@ -1,0 +1,21 @@
+[submodule "lib/preprocessor"]
+	path = lib/preprocessor
+	url = https://github.com/boostorg/preprocessor.git
+[submodule "lib/usb_midi_device_multistream"]
+	path = lib/usb_midi_device_multistream
+	url = https://github.com/rppicomidi/usb_midi_device_multistream
+[submodule "lib/pio_midi_uart_lib"]
+	path = lib/pio_midi_uart_lib
+	url = https://github.com/rppicomidi/pio_midi_uart_lib
+[submodule "lib/ring_buffer_lib"]
+	path = lib/ring_buffer_lib
+	url = https://github.com/rppicomidi/ring_buffer_lib
+[submodule "lib/midi_uart_lib"]
+	path = lib/midi_uart_lib
+	url = https://github.com/rppicomidi/midi_uart_lib
+[submodule "lib/cdc_stdio_lib"]
+	path = lib/cdc_stdio_lib
+	url = https://github.com/rppicomidi/cdc_stdio_lib
+[submodule "lib/embedded-cli"]
+	path = lib/embedded-cli
+	url = https://github.com/funbiscuit/embedded-cli.git
